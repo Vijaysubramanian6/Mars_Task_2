@@ -13,7 +13,7 @@ These are some things that one can only experience while working with actual har
 
 
 
-## Steps 
+## Working Process 
 So how did i go about attempting the task
 
 Firstly, understand Stepper 
